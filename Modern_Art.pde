@@ -2,7 +2,6 @@
 size(400,400);
 background(255,255,255);
 noStroke();
-
 //Shapes
 //1
 fill(103, 119, 203);
